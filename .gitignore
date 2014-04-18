@@ -2,10 +2,15 @@
 *.o
 *.a
 *.so
+*.iml
+.DS_Store
 
 # Folders
 _obj
 _test
+out
+.idea
+
 
 # Architecture specific extensions/prefixes
 *.[568vq]
